@@ -1,0 +1,71 @@
+# Ignore built data
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Ignore Visual Studio and Xcode files
+.vscode/
+*.code-workspace
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+*.xcuserstate
+
+# Ignore user-specific and temporary files
+*.log
+*.tmp
+*.local
+*.user
+*.userprefs
+*.sdf
+*.opensdf
+*.cache
+*.db
+*.pdb
+
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+desktop.ini
+
+# Ignore generated project files (optional - regenerate with .uproject)
+# Uncomment the next line if you want to always regenerate project files
+# *.uprojectdirs
+
+# Ignore configuration files specific to user machines
+*.ini
+!Default*.ini
+
+# Ignore Unreal Plugin intermediate files
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Saved/
+
+# Optional: Ignore packaged builds
+# Uncomment if you're storing packaged builds elsewhere
+# WindowsNoEditor/
+# LinuxNoEditor/
+# Android/
+# iOS/
+# HTML5/
+
+
+# Ignore scripts cache data
+*__pycache**
+
+# Ignore houdini cache data
+Houdini Files/scenes/*/output/**
+Houdini Files/scenes/*/working_files/Backup/**
+
+
+
+
