@@ -63,9 +63,11 @@ Plugins/*/Saved/
 *__pycache**
 
 # Ignore houdini cache data
-Houdini Files/Assets/Download/**
 Houdini Files/scenes/*/output/**
-Houdini Files/scenes/*/working_files/Backup/**
+Houdini Files/scenes/*/working_files/backup/**
+Houdini Files/scenes/Previsualization/working_files/geo/**
+Houdini Files/hda/backup/**
+Houdini Files/Assets/**
 
 
 
