@@ -68,6 +68,8 @@ Houdini Files/scenes/*/working_files/backup/**
 Houdini Files/scenes/Previsualization/working_files/geo/**
 Houdini Files/hda/backup/**
 Houdini Files/Assets/**
+Houdini Files/scripts/__pycache*
+Houdini Files/scripts/*/__pycache*
 
 
 
